@@ -1,0 +1,11 @@
+student registration -user exsist warn to update ================done
+if id exsist applicant form shoud fill with data and not allow to edit==========done
+stuent apply for more than onecourse==========done
+applicant count should show in batch view
+
+batch cant start with 0 subject
+assing subject to created batch not implemented
+edit subject not implemented
+delete batch(no applicant, not started);
+add link to create acadamic form assign acadamit modal
+view subject of acadamic starf
